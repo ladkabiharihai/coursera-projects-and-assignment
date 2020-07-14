@@ -1,1 +1,1 @@
-# Advanced-Machine-Learning-and-Signal-Processing
+# projects and assignments
